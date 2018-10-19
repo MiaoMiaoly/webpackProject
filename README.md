@@ -18,3 +18,8 @@ WebPack和Grunt以及Gulp相比有什么特性
 
 其实Webpack和另外两个并没有太多的可比性，Gulp/Grunt是一种能够优化前端的开发流程的工具，
 而WebPack是一种模块化的解决方案，不过Webpack的优点使得Webpack在很多场景下可以替代Gulp/Grunt类的工具。
+
+步骤
+npm install
+npm run server
+https://segmentfault.com/a/1190000006178770
